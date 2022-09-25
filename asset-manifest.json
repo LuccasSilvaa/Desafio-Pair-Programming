@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Desafio-Pair-Programming/static/js/main.b0414644.js",
+    "static/media/background.png": "/Desafio-Pair-Programming/static/media/background.7417fae2c0eebf74b629.png",
+    "static/media/bolo.png": "/Desafio-Pair-Programming/static/media/bolo.6cf44c8d7f5868bef2f1.png",
+    "static/media/pizza.png": "/Desafio-Pair-Programming/static/media/pizza.ef2cf7030adf6676511e.png",
+    "static/media/batida.png": "/Desafio-Pair-Programming/static/media/batida.0430309e784773200e97.png",
+    "index.html": "/Desafio-Pair-Programming/index.html",
+    "static/media/RC.svg": "/Desafio-Pair-Programming/static/media/RC.83fbe36b313cbf5473243fcf3b00a20a.svg",
+    "main.b0414644.js.map": "/Desafio-Pair-Programming/static/js/main.b0414644.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0414644.js"
+  ]
+}
